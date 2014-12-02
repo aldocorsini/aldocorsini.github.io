@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    
+
+    <title>Goblin Wine</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+		<icon>http://10.0.1.32:4000//apple-touch-icon-precomposed.png</icon>
+    <subtitle>a site devoted to the light opera, "The Princess & The Pedlar"</subtitle>
+    <link href="http://10.0.1.32:4000//atom.xml" rel="self"/>
+    <link href="http://10.0.1.32:4000//" rel="alternate" type="text/html"/>
+    <updated>2014-12-01T19:07:40-08:00</updated>
+    <id>http://10.0.1.32:4000//</id>
+    <author>
+			<name></name>
+			<uri>http://10.0.1.32:4000//</uri>
+			
+		</author>
+
+    
+</feed>
