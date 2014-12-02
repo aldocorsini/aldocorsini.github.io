@@ -2,55 +2,55 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://10.0.1.32:4000//</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://10.0.1.32:4000//collaborators/</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://10.0.1.32:4000//kimcooper/</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://10.0.1.32:4000//story/</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://10.0.1.32:4000//sybildavis/</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://10.0.1.32:4000//contact/</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://10.0.1.32:4000//petitionpage/</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://10.0.1.32:4000//skipheller/</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://10.0.1.32:4000//paulsand/</loc>
-    <lastmod>2014-12-01T19:12:10-08:00</lastmod>
+    <lastmod>2014-12-01T22:00:05-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
